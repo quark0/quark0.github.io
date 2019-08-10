@@ -3,14 +3,7 @@
  
 /* start css.sty */
 .cmtt-10{font-family: "Roboto Mono";}
-.cmtt-10{font-family: "Roboto Mono";}
-.cmbx-10{ font-weight: 400;}
-.cmbx-10{ font-weight: 400;}
-.cmbx-12x-x-172{font-size:206%; font-weight: 400;}
-.cmbx-12x-x-172{ font-weight: 400;}
-.cmti-10{ font-style: italic;}
-.cmtt-8x-x-87{font-size:69%;font-family: "Roboto Mono";}
-.cmtt-8x-x-87{font-family: "Roboto Mono";}
+.cmbx-12x-x-144{font-size:172%; font-weight: 400;}
 .cmti-8{font-size:80%; font-style: italic;}
 .cmti-9{font-size:90%; font-style: italic;}
 .tcti-0800{font-size:80%;font-style: italic;}
@@ -222,7 +215,7 @@ a:hover { color:#FF6600; }
 a .cmtt-8x-x-87 { color:#ed1c24; }
 .cmtt-9 .cmtt-8 .cmti-8 { color:#575757; }
 .cmbx-10 { color:#5A5A5A; }
-span.cmbx-12x-x-172 { color: #5A5A5A; }
+span.cmbx-12x-x-144 { color: #5A5A5A; }
 .likesubsectionHead { color: #5A5A5A; }
 .likesubsubsectionHead { color: #5A5A5A; }
 
